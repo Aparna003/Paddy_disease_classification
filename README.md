@@ -6,3 +6,5 @@ This problem statement was taken from Kaggle competition. The source of the data
 https://www.kaggle.com/competitions/paddy-disease-classification/overview
 
 https://www.kaggle.com/competitions/paddy-disease-classification/data
+
+Link to blog: https://blogs.gwu.edu/aparna-shankar/2024/03/28/smart-farming-paddy-disease-recognition-and-management/
