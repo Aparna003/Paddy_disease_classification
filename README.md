@@ -3,4 +3,5 @@ This project aims to develop a deep learning-based solution for the automatic cl
 
 This problem statement was taken from Kaggle competition. The source of the datasets and the competition are below:
 https://www.kaggle.com/competitions/paddy-disease-classification/overview
+
 https://www.kaggle.com/competitions/paddy-disease-classification/data
